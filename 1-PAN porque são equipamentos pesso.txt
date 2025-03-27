@@ -1,0 +1,5 @@
+1-PAN porque são equipamentos pessoais
+2-LAN e 1 a 2 km 
+3-CAN de 5km no máximo 
+4-PAN porque o máximo de ligação e de 10m
+5-PAN porque são equipamentos pessoais
