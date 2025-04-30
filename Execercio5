@@ -1,0 +1,13 @@
+1.[Tablet] -- (wifi) -- [Impressora via Wifi direito]
+2.[1PC] --|
+  [2PC] --|-- (Switch) -- [edificio Aula]
+  [3PC] --| 
+[fibra óptica]--------[1 edificio]
+      |                     |
+      |                  (fibra)
+      |                     |
+      |---------------[2 edificio]
+      |                     |
+      |                  (fibra)
+      |                     |
+      |---------------[3 edificio]
