@@ -1,0 +1,18 @@
+A.Smartphone: melhor opção é 5 GHz pra ter melhor conexao com wifi.
+  computadores portáteis: é 5 GHz tem melhor banda de conexão com wifi.
+  televisao smart: é 5 GHz pra ter mlhor qualidadade de videos e ter melhor conexao.
+  plataforma de streaming: é 5 GHz pra ver full hd os videos sem parar o video por causa da conexao.
+  Dispositivos Iot: 2.4 ou 5 GHz, Bluetooth ou o que seja. São as camadas IP que precisam de estar separadas.
+  Podes ligar uma rede IP em diferentes tecnologias da camada 2. Mas mantém a IoT fora da tua rede IP principal e segura. VLANs também podem ser usadas para separar na camada 2.
+
+B.A melhor frequência de rede irá depender da sua necessidade de uso. A frequência 2.4G é ideal para ambientes com muitos obstáculos e uma demanda relativamente baixa de dados, 
+  enquanto a frequência 5G é ideal para ambientes com alta demanda de dados e menos obstáculos.
+
+C.Vantagem:Já uma rede Wi-Fi para visitantes pode ser configurada com restrições. Você pode fazer com que o usuário não possa acessar nenhum outro aparelho, seja um servidor ou uma impressora, e fique restrito única e simplesmente a seu próprio gadget. Ao mesmo tempo,
+  redes para visitantes blindam os dados trafegados, impedindo a propagação de vírus, malwares e outras pragas para os conectados na rede principal.
+
+  Desvantagem:Compartilhar a senha de sua rede Wi-Fi com visitantes não é uma boa ideia: nem sempre sabemos quais são as reais intenções das pessoas, e ao fazê-lo você está colocando em risco todos os seus dispositivos conectados em sua rede doméstica.
+
+D.Ocultar SSID
+ colocar palvra forte
+  
