@@ -1,0 +1,18 @@
+a.O hub Envia informaçoes a todos os computadores.
+b.Se essa rede estiver ligada ao switch tera mais desepenho na rede,os dados serem enviados para o computador com a placa de rede destinada.
+c.Vantagem do HUB:
+- Permite a conexão física independente de cada ponto;
+- Facilita a manutenção da rede;
+Desvatagem:
+- Modo de transmissão sujeito a colisões;
+- Não oferece largura de banda dedicada;
+  As vantagens dos switches:
+- Reduzem o número dos domínios de transmissão;
+- Usam a tabela de MAC address para mapear os remetentes e enviar os dados somente os respectivos destinos;
+- Possibilita a comunicação entre máquinas com placas de rede de diferentes velocidades;
+- Aumenta o desempenho da rede, já que a comunicação está sempre disponível;
+Desvantagens dos switches:
+- Não é tão eficiente quanto um roteador para limitar as transmissões;
+- A comunicação entre VLANs requer roteamento;
+- São mais caros do que outros dispositivos de rede;
+- Problemas de disponibilidade podem ser difíceis de ser identificados;
