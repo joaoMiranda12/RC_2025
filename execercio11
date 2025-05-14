@@ -1,0 +1,5 @@
+liga segmentos da mesma rede: Bridge,
+Encaminha por endereço MAC:switch,
+Encaminha por endereço de IP:Router,
+Acede à  Internet:Router 
+trabalha em que camada OSI:
