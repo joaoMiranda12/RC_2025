@@ -1,5 +1,13 @@
-liga segmentos da mesma rede: Bridge,
-Encaminha por endereço MAC:switch,
-Encaminha por endereço de IP:Router,
-Acede à  Internet:Router 
-trabalha em que camada OSI:
+1.liga segmentos da mesma rede: Bridge,
+2.Encaminha por endereço MAC:switch,
+3.Encaminha por endereço de IP:Router,
+4.Acede à  Internet:Router,
+5.trabalha em que camada OSI:
+
+correção:
+
+1.Bridge,Switch
+2.Bridge,Switch
+3.Router
+4.Router
+5.2 - 2- 3
