@@ -1,0 +1,4 @@
+    funcao           |     gateway      |    Router
+interliga redes      |       S (protocolos stabelecer a comunicação entre dispositivos em redes distintas ou incompatíveis)   |      S(protocolos)
+traduz protocolos    |       N          |      S
+encaminha tráfego    |       S          |      S
