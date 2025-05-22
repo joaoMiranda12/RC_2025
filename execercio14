@@ -1,0 +1,19 @@
+1. Aplicação, Transporte, Rede , Acesso à Rede
+1. Camada de Acesso à Rede: Esta camada lida com a transmissão física de dados 
+2. Camada de Internet: Esta camada lida com o roteamento de pacotes de dados através das redes.
+4. Camada de Transporte: Esta camada garante a entrega confiável e ordenada de dados.
+5. Camada de Aplicação: Esta camada fornece serviços de rede para aplicativos.
+
+
+2.1
+1-Camada de aplicação
+2-Camada de transporte 
+3-Camada de rede 
+4-Camada física 
+
+2.2
+a camada de aplicação lida com o protocolo SMTP (Simple Mail Transfer Protocol) para enviar o e-mail, a camada de transporte usa o TCP para garantir a entrega confiável dos dados, a camada de rede utiliza o IP para rotear os dados entre redes, e a camada de link de dados lida com a transmissão física dos dados em uma rede específica e so isso mais nada.
+ bateu preguica de fazera tabela profesora
+
+
+
