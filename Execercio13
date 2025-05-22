@@ -1,0 +1,42 @@
+1.
+
+
+    Camada de aplicação
+            |
+   Camada de apresentação
+            |
+    Camada de sessão
+            |
+  Camada de transporte
+            |
+  Camada de Rede (Network)
+            |
+Camada de Enlace de Dados 
+            |
+      Camada Física
+2.
+1. 
+camdaa de aplicaçao -Onde estão os aplicativos que usam a rede (navegadores, email etc).
+camada de apresentaçao -Traduz os dados para um formato compreensível pelas aplicações.
+camada de apresentaçao -Estabelece, mantém e encerra sessões entre aplicações.
+camada de trasporte - Garante a entrega confiável de dados de ponta a ponta.
+camada  de Rede -Responsável pelo roteamento dos pacotes entre redes diferentes.
+camada de Enlacee de dados - Garante a entrega livre de erros entre dois dispositivos diretamente conectados.
+camada fisíca - esponsável pela transmissão dos bits brutos através do meio físico (cabos, ondas de rádio etc).
+2. 
+camada de aplicaçao-Aplicativo não consegue se conectar (por falha de rede)
+camada de apresentaçao-Dados corrompidos ao serem convertidos
+camada de apresentaçao-Sessões que caem ou expiram
+camada de trasporte-Perda de pacotes (em TCP, causa reenvio e lentidão)
+camada  de Rede-Configuração incorreta de IP, máscara, gateway
+camada de Enlacee de dados-Colisões de pacotes (em redes antigas como hub)
+camada fisíca-Cabos danificados ou mal conectados
+3.
+camada de aplicaçao-Verifica se as aplicações estão funcionando como esperado e se a comunicação com o servidor ou outros dispositivos está correta.
+camada de apresentaçao-Verifica se a formatação, a codificação/descodificação e a criptografia dos dados estão sendo realizadas corretamente.
+camada de apresentaçao- Verifica se as sessões de comunicação estão sendo estabelecidas e terminadas corretamente.
+camada de trasporte-Verifica a confiabilidade da entrega dos dados, o controle de fluxo e a ordenação dos segmentos de dados.
+camada  de Rede- testa se um IP responde (comunicação básica).
+camada de Enlacee de dados-Switch com gerenciamento: pode verificar erros e tráfego por porta.
+camada fisíca-Testador de cabos (Cable Tester): verifica se o cabo está bom
+
