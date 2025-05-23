@@ -1,0 +1,25 @@
+Funcao principal
+Https : Vista geral de IA
+Verifica cuidadosamente as informações importantes. Saber mais
+A função principal do protocolo HTTP (Hypertext Transfer Protocol) é facilitar a comunicação entre um cliente (navegador web) e um servidor (que hospeda o site), permitindo a troca de dados, como documentos HTML, imagens e outros recursos da web. 
+TCP :A função principal dos protocolos TCP (Transmission Control Protocol) é garantir a entrega confiável e segura de dados entre computadores em uma rede
+DNS :Os servidores DNS convertem solicitações de nomes em endereços IP,
+ICMP :A função principal do protocolo ICMP (Internet Control Message Protocol) é comunicar problemas ou erros na transmissão de dados em uma rede, informando o remetente sobre a necessidade de reenvio ou correção de problemas de entrega
+FTP :A função principal dos protocolos de FTP (File Transfer Protocol) é facilitar a transferência de arquivos entre computadores ou servidores em uma rede TCP/IP
+
+
+Camada do modelo TCP/IP 
+Https :aplicação
+TCP :transporte
+DNS :Internet
+ICMP :Internet
+FTP :Aplicação
+
+
+
+Exemplo de ultilizacao
+Https : utilizada para garantir a confidencialidade e segurança das comunicações entre um navegador e um servidor web
+TCP : navegação web, e-mail, transferência de arquivos e serviços bancários
+DNS : O protocolo DNS (Domain Name System) é fundamental para a Internet, permitindo que usuários acedam a sites através de nomes de domínio (ex: www.google.com), em vez de endereços IP numéricos (ex: 172.217.160.142).
+ICMP : O ICMP (Internet Control Message Protocol) é um protocolo de rede usado para enviar mensagens de controle e erro entre dispositivos em uma rede IP
+FTP : o upload de sites para servidores, a recuperação de dados de um servidor remoto e a troca de arquivos entre equipes em ambientes corporativos
